@@ -1,2 +1,7 @@
 .pc
-
+flask_env/
+.novaVersao/
+*.pyc
+__pycache__/
+.~lock.*
+*.xlsx
